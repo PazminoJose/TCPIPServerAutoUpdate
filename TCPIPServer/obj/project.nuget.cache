@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CTtxAnD5Ev6zZNi1PZQBEPh/Xr9Ffd0FGhnnBeQPnzx/4t+VPUzQvta/ti6dWuRD8F3QJBcH6d6oFSF3dtksdw==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio Projects\\TCPIPServerAutoUpdate\\TCPIPServer\\TCPIPServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BlueBird\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\BlueBird\\.nuget\\packages\\watsontcp\\4.8.14.10\\watsontcp.4.8.14.10.nupkg.sha512"
+  ],
+  "logs": []
+}
