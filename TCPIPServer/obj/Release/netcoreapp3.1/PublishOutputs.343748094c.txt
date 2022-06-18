@@ -1,0 +1,7 @@
+D:\Visual Studio Projects\TCPIPServerAutoUpdate\published\TCPIPServer.exe
+D:\Visual Studio Projects\TCPIPServerAutoUpdate\published\TCPIPServer.dll
+D:\Visual Studio Projects\TCPIPServerAutoUpdate\published\TCPIPServer.deps.json
+D:\Visual Studio Projects\TCPIPServerAutoUpdate\published\TCPIPServer.runtimeconfig.json
+D:\Visual Studio Projects\TCPIPServerAutoUpdate\published\TCPIPServer.pdb
+D:\Visual Studio Projects\TCPIPServerAutoUpdate\published\Newtonsoft.Json.dll
+D:\Visual Studio Projects\TCPIPServerAutoUpdate\published\WatsonTcp.dll

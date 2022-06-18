@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TCPIPServer/1.0.0": {
+        "dependencies": {
+          "WatsonTcp": "4.8.14.10"
+        },
+        "runtime": {
+          "TCPIPServer.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "WatsonTcp/4.8.14.10": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/WatsonTcp.dll": {
+            "assemblyVersion": "4.8.14.10",
+            "fileVersion": "4.8.14.10"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TCPIPServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "WatsonTcp/4.8.14.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Yqf31DawzkxyTKfQwf8BJjmvlRootXTxpfnHwdOnvVpivz9R59zJtRJPa+Z/TF+KL3yF6JrZ7OS8FsO1V2TGjg==",
+      "path": "watsontcp/4.8.14.10",
+      "hashPath": "watsontcp.4.8.14.10.nupkg.sha512"
+    }
+  }
+}
