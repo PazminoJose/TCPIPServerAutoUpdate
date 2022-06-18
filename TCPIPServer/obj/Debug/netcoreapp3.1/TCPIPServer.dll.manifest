@@ -71,13 +71,13 @@
       <dsig:DigestValue>4nGstzZKZuQeGqVLrg86tbNdmHy0R5OSeBUviLFrJ2g=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="TCPIPServer.dll" size="12800">
+  <file name="TCPIPServer.dll" size="13312">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>qxVrgFF3QDJqVmk2Ei5Y+lI97fNkrmqJp2hlVvn5y14=</dsig:DigestValue>
+      <dsig:DigestValue>8HiekxvLfUYialJG9hoefKV6uS2MSBERGkieuWuBBHA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="TCPIPServer.exe" size="174592">
