@@ -39,6 +39,7 @@ namespace TCPIPServer
             this.txtSend = new System.Windows.Forms.TextBox();
             this.btnSend = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label2
@@ -129,11 +130,21 @@ namespace TCPIPServer
             this.label3.TabIndex = 10;
             this.label3.Text = "Establecer Servidor:";
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(643, 514);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(24, 20);
+            this.label4.TabIndex = 11;
+            this.label4.Text = "v2";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(755, 551);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.btnSend);
             this.Controls.Add(this.txtSend);
@@ -164,6 +175,7 @@ namespace TCPIPServer
         private System.Windows.Forms.TextBox txtSend;
         private System.Windows.Forms.Button btnSend;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
     }
 }
 
