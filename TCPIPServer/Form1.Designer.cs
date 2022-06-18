@@ -135,9 +135,9 @@ namespace TCPIPServer
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(643, 514);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(24, 20);
+            this.label4.Size = new System.Drawing.Size(35, 20);
             this.label4.TabIndex = 11;
-            this.label4.Text = "v2";
+            this.label4.Text = "v2.1";
             // 
             // Form1
             // 
